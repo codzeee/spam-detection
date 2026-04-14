@@ -1,0 +1,6 @@
+{
+  "name": "SpamGuard AI",
+  "description": "A robust spam comment detection system using Gemini AI and real-time keyword analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
